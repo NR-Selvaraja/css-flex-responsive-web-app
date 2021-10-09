@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html { scroll-behavior: smooth;}
+
+header {
+    height:70px;
+    position:fixed top;
+    background-color: #00C9A7;
+    border-bottom: 0px solid #4D8076;
+    -webkit-box-shadow: -2px -1px 15px 7px rgba(114, 114, 114, 0.5);
+//   -moz-box-shadow: -3px -2px 30px 14px rgba(0,0,0,0.425);
+//   box-shadow: -4px -3px 45px 21px rgba(0,0,0,0.35);
+
+}
+
+main {
+    height:100%;
+    background-color:#f2f5f4
+}
+
+footer {
+    height:80px;
+    position: absolute;
+    bottom:0px;
+    background-color: #C4FCEF
+}
